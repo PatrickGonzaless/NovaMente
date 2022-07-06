@@ -1039,7 +1039,7 @@ header{
   }
 
   .nav_plataforma a{
-    width: 65%;
+    width: 100%;
     height: 6vh;
     display: flex;
     flex-direction: row;
